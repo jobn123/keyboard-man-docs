@@ -43,7 +43,6 @@
 ```javascript
 // 练习
 var b = function() {
-
   const text = "hello";   
   console.log("hello")
   console.log("hello")
