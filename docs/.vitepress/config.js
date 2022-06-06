@@ -23,7 +23,8 @@ export default {
           { text: '行相关的命令', link: '/day2' },
           { text: '掌握Vim语法', link: '/day3' },
           { text: '更有效率的处理单字符', link: '/day4' },
-          { text: '掌握可视化模式', link: '/day5' }
+          { text: '掌握可视化模式', link: '/day5' },
+          { text: '掌握文本对象', link: '/day6' }
         ]
       },
       {
