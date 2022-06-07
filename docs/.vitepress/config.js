@@ -4,7 +4,7 @@ export default {
   description: 'Just playing around.',
   themeConfig: {
     nav: [
-      { text: 'Guide', link: 'index' },
+      { text: 'Github', link: 'https://github.com/jobn123/keyboard-man-docs' },
       // {
       //   text: 'Dropdown Menu',
       //   items: [
