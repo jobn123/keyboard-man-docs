@@ -39,7 +39,7 @@
 
 ```javascript
 function setName(_name, age) {
-  conse name =  _name;
+  const name =  _name;
 
   const name = "jack";
   const name = `jack`;
