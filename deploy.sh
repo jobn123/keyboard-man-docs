@@ -3,8 +3,6 @@
 # abort on errors
 set -e
 
-rm -rf docs/.vitepress/dist
-
 # build
 npm run docs:build
 

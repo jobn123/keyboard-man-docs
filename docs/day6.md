@@ -23,7 +23,7 @@
 * s 一个句子
 * p 一个段落
 
-## tips for vscode vim pllugin
+## tips for vscode vim plugin
 
 ### vim-textobj-arguments 匹配参数
 * ia 不包含分隔符
