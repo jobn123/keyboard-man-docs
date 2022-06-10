@@ -24,6 +24,9 @@
 ## 全局搜索技巧
 * 写单词的前那几个字母就可以
 
+## 技巧
+* dt + 字母 删除字母前所有字符
+
 ## 练习
 
 I‘ve been expecting you, Mister Bond.

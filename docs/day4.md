@@ -18,7 +18,7 @@ undo/redo 是基于一次可撤销块操作的。
 * ctrl + r 取消
 
 ```javascript
-const getUserName = function() {
+const setUserName = function() {
   return 'ijjjj';
 }
 ```
