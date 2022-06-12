@@ -28,7 +28,8 @@ export default {
           { text: '在文件中更快的移动', link: '/day7' },
           { text: '掌握搜索', link: '/day8' },
           { text: '更高效移动-想去哪里去哪里', link: '/day9' },
-          { text: '认识数字和点的威力', link: '/day10' }
+          { text: '认识数字和点的威力', link: '/day10' },
+          { text: '掌握文件间的跳转', link: '/day11' }
         ]
       },
       {
