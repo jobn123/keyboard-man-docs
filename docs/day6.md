@@ -23,13 +23,14 @@
 * s 一个句子
 * p 一个段落
 
-## tips for vscode vim pllugin
+## tips for vscode vim plugin
 
 ### vim-textobj-arguments 匹配参数
 * ia 不包含分隔符
 * aa 包含分隔符
 * daa 删除一个参数
 * cia 修改一个参数
+* caa 修改一个参数连带删除逗号
 
 ### vim-textobj-onfire 匹配整个文本
 * die 删除整个文本 不包含空格
