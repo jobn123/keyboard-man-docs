@@ -62,7 +62,11 @@ export default {
           {
             text: '掌握文件间的跳转',
             link: '/day11'
-          }
+          },
+          {
+            text: '处理包裹的字符',
+            link: '/day12'
+          },
         ]
       },
       {

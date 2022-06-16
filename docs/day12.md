@@ -10,14 +10,16 @@
 ## 示例
 * c s ' `  将'改为`
 * y s i w { 给一个单词加花括号
+* y s i w <div> 单词包裹标签
 * d s " 删除字符周围的"
+* 可视化模式下使用选择范围 + S 
 
 ## 练习
 
 ```js
-import add from './add'
+import add from "./add"
 
-nihao
+<div>nihao</div>
 
 const a = "b${name}"
 ```

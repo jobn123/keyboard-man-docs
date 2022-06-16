@@ -39,7 +39,7 @@
 ## 练习
 
 ```javascript
-function setName(_name, age) {
+function setName(name, age) {
   const name =  _name;
 
   const name = "jack";
