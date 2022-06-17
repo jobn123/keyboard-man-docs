@@ -67,6 +67,14 @@ export default {
             text: '处理包裹的字符',
             link: '/day12'
           },
+          {
+            text: '替换字符',
+            link: '/day13'
+          },
+          {
+            text: '掌握大小写、注释、悬浮显示',
+            link: '/day13'
+          },
         ]
       },
       {
