@@ -17,7 +17,7 @@
 ## 练习
 
 ```js
-vnode 
+node
 
 vnode 
 

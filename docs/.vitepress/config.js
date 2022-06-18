@@ -73,8 +73,12 @@ export default {
           },
           {
             text: '掌握大小写、注释、悬浮显示',
-            link: '/day13'
+            link: '/day14'
           },
+          {
+            text: '窗口管理',
+            link: '/day15'
+          }
         ]
       },
       {
