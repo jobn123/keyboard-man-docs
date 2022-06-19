@@ -78,6 +78,10 @@ export default {
           {
             text: '窗口管理',
             link: '/day15'
+          },
+          {
+            text: '函数处理',
+            link: '/day16'
           }
         ]
       },
