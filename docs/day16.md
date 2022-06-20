@@ -36,6 +36,6 @@ age=18) {
 ```python
 def printme (str):
   "打印"
-  print str
+  prit str
   return
 ```
