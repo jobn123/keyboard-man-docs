@@ -28,5 +28,3 @@
 4. test
 50. test
 
-
-^s.w~jkkkk
