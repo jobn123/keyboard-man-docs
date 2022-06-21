@@ -86,6 +86,10 @@ export default {
       {
         text: '掌握宏',
         link: '/day17'
+      },
+      {
+        text: 'vim 调用 vscode 命令',
+        link: '/day18'
       }
       ]
     },
