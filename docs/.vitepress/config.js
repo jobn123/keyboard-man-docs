@@ -97,8 +97,8 @@ export default {
       text: 'Vscode',
       collapsible: true,
       items: [{
-        text: 'Introduction',
-        link: '/introduction'
+        text: '操作文件',
+        link: '/vscode/day1'
       },
       {
         text: 'Getting Started',
