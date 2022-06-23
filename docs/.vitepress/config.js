@@ -101,8 +101,8 @@ export default {
         link: '/vscode/day1'
       },
       {
-        text: 'Getting Started',
-        link: '/getting-started'
+        text: '操作多个窗口',
+        link: '/vscode/day2'
       },
       ]
     },
