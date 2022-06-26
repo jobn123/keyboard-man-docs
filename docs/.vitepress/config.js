@@ -107,6 +107,10 @@ export default {
       {
         text: '掌握搜素',
         link: '/vscode/day3.md'
+      },
+      {
+        text: '编码相关快捷键',
+        link: '/vscode/day4.md'
       }
       ]
     },
