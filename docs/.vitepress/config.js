@@ -104,6 +104,10 @@ export default {
         text: '操作多个窗口',
         link: '/vscode/day2'
       },
+      {
+        text: '掌握搜素',
+        link: '/vscode/day3.md'
+      }
       ]
     },
     {

@@ -10,4 +10,4 @@
 - command + `
 
 ## 关闭vscode 窗口
-- shift + ctrl + w
+- shift + cmd + w
