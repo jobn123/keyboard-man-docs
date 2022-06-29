@@ -111,6 +111,14 @@ export default {
       {
         text: '编码相关快捷键',
         link: '/vscode/day4.md'
+      },
+      {
+        text: '发现快捷键的场景',
+        link: '/vscode/day5.md'
+      },
+      {
+        text: '搞定git',
+        link: '/vscode/day6.md'
       }
       ]
     },
