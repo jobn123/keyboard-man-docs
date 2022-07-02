@@ -119,6 +119,14 @@ export default {
       {
         text: '搞定git',
         link: '/vscode/day6.md'
+      },
+      {
+        text: '善用snippers',
+        link: '/vscode/day7.md'
+      },
+      {
+        text: '重构相关',
+        link: '/vscode/day8.md'
       }
       ]
     },
