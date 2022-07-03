@@ -127,6 +127,10 @@ export default {
       {
         text: '重构相关',
         link: '/vscode/day8.md'
+      },
+      {
+        text: 'Vspacecode',
+        link: '/vscode/day9.md'
       }
       ]
     },
