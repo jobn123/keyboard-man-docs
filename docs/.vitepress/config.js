@@ -131,6 +131,14 @@ export default {
       {
         text: 'Vspacecode',
         link: '/vscode/day9.md'
+      },
+      {
+        text: 'lazyGit',
+        link: '/vscode/day10.md'
+      },
+      {
+        text: '终端',
+        link: '/vscode/day11.md'
       }
       ]
     },

@@ -23,6 +23,7 @@ shift+P:                          push
 
 ```shell
 space:    toggle staged
+a:        stage all files
 c:        commit changes
 shift+C: commit using git editor
 shift+S: stash files
@@ -53,6 +54,7 @@ d:       delete branch
 s:       squash down (only available for topmost commit)
 r:       rename commit
 g:       reset to this commit
+p:       push
 ```
 
 ## Stash panel
