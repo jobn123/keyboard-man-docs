@@ -31,3 +31,7 @@
 - shift + cmd + c
 
 默认是打开系统终端，如使用iterm。需要在setting.json中配置`"terminal.external.osxExec": "Iterm.app"`
+
+## 终端中切换
+- cmd + [ / ]
+- cmd + ctrl + h / l 终端窗口切换
