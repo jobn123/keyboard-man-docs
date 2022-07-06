@@ -18,7 +18,7 @@ q:                                quit
 p:                                pull
 shift+P:                          push
 ```
-
+值
 ## Files Panel:
 
 ```shell

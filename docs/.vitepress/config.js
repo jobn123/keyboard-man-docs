@@ -139,6 +139,10 @@ export default {
       {
         text: '终端',
         link: '/vscode/day11.md'
+      },
+      {
+        text: 'debug',
+        link: '/vscode/day12.md'
       }
       ]
     },
