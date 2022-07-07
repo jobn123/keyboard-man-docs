@@ -150,13 +150,10 @@ export default {
       text: 'Chorme',
       collapsible: true,
       items: [{
-        text: 'Introduction',
-        link: '/introduction'
+        text: '初识vimiumc',
+        link: '/chrome/day1.md'
       },
-      {
-        text: 'Getting Started',
-        link: '/getting-started'
-      },
+
       ]
     },
     {
