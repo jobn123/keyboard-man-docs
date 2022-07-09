@@ -153,7 +153,10 @@ export default {
         text: '初识vimiumc',
         link: '/chrome/day1.md'
       },
-
+      {
+        text: '页面操作',
+        link: '/chrome/day2.md'
+      }
       ]
     },
     {
