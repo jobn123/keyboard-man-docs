@@ -156,6 +156,10 @@ export default {
       {
         text: '页面操作',
         link: '/chrome/day2.md'
+      },
+      {
+        text: '查找、搜索',
+        link: '/chrome/day3.md'
       }
       ]
     },
