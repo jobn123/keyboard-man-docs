@@ -143,7 +143,7 @@ export default {
       {
         text: 'debug',
         link: '/vscode/day12.md'
-      }
+      },
       ]
     },
     {
@@ -160,6 +160,10 @@ export default {
       {
         text: '查找、搜索',
         link: '/chrome/day3.md'
+      },
+      {
+        text: '标签',
+        link: '/chrome/day4.md'
       }
       ]
     },
