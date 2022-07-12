@@ -164,6 +164,10 @@ export default {
       {
         text: '标签',
         link: '/chrome/day4.md'
+      },
+      {
+        text: '一些不常用的场景',
+        link: '/chrome/day5.md'
       }
       ]
     },
