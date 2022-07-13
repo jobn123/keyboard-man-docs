@@ -168,6 +168,10 @@ export default {
       {
         text: '一些不常用的场景',
         link: '/chrome/day5.md'
+      },
+      {
+        text: 'devTools常用快捷键',
+        link: '/chrome/day6.md'
       }
       ]
     },
