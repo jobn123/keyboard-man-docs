@@ -172,6 +172,10 @@ export default {
       {
         text: 'devTools常用快捷键',
         link: '/chrome/day6.md'
+      },
+      {
+        text: '调试Debugger',
+        link: '/chrome/day7.md'
       }
       ]
     },
