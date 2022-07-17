@@ -180,6 +180,14 @@ export default {
       ]
     },
     {
+      text: 'iterm',
+      collapsible: true,
+      items: [{
+        text: 'iterm 导航',
+        link: '/iterm/day01.md'
+      }]
+    },
+    {
       text: 'Mac',
       collapsible: true,
       items: [{
