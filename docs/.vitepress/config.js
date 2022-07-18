@@ -185,6 +185,9 @@ export default {
       items: [{
         text: 'iterm 导航',
         link: '/iterm/day01.md'
+      }, {
+        text: 'zellij使用',
+        link: '/iterm/day2.md'
       }]
     },
     {
