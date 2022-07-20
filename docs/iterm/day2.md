@@ -21,10 +21,10 @@
 
 ## session
 - ctrl + o d 创建
-- zj attach -c <session name>
-- zj attach / a <session name> 使用session
+- zj attach -c `<session name>`
+- zj attach / a `<session name>` 使用session
 - zj list-session  / zj ls 显示所有session
-- zj kill-session <session name> / zj k 
+- zj kill-session `<session name>` / zj k 
 - zj kill-all-sessions / zj ka 清空所有session
 
 ## sync
