@@ -188,6 +188,12 @@ export default {
       }, {
         text: 'zellij使用',
         link: '/iterm/day2.md'
+      }, {
+        text: "初识vi-zsh-mode",
+        link: '/iterm/day3.md'
+      }, {
+        text: 'vi-zsh-mode进阶',
+        link: '/iterm/day4.md'
       }]
     },
     {
