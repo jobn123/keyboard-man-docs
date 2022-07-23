@@ -194,6 +194,9 @@ export default {
       }, {
         text: 'vi-zsh-mode进阶',
         link: '/iterm/day4.md'
+      }, {
+        text: 'iterm 常用插件',
+        link: '/iterm/day5.md'
       }]
     },
     {
