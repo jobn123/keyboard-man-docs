@@ -13,3 +13,11 @@
 - j -d 减少权重
 - j -s 查看记录
 - j --help
+
+## copypath
+
+## coppyfile
+
+## web-search
+
+## macos

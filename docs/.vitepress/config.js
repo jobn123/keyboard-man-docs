@@ -197,6 +197,9 @@ export default {
       }, {
         text: 'iterm 常用插件',
         link: '/iterm/day5.md'
+      }, {
+        text: 'iterm 修改快捷键',
+        link: '/iterm/day6.md'
       }]
     },
     {
