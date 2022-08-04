@@ -206,8 +206,8 @@ export default {
       text: 'Mac',
       collapsible: true,
       items: [{
-        text: 'Introduction',
-        link: '/introduction'
+        text: 'Mac 常用软件',
+        link: '/mac/day1.md'
       },
       {
         text: 'Getting Started',
