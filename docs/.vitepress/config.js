@@ -111,28 +111,103 @@ export default {
       {
         text: '编码相关快捷键',
         link: '/vscode/day4.md'
-      }
+      },
+      {
+        text: '发现快捷键的场景',
+        link: '/vscode/day5.md'
+      },
+      {
+        text: '搞定git',
+        link: '/vscode/day6.md'
+      },
+      {
+        text: '善用snippers',
+        link: '/vscode/day7.md'
+      },
+      {
+        text: '重构相关',
+        link: '/vscode/day8.md'
+      },
+      {
+        text: 'Vspacecode',
+        link: '/vscode/day9.md'
+      },
+      {
+        text: 'lazyGit',
+        link: '/vscode/day10.md'
+      },
+      {
+        text: '终端',
+        link: '/vscode/day11.md'
+      },
+      {
+        text: 'debug',
+        link: '/vscode/day12.md'
+      },
       ]
     },
     {
       text: 'Chorme',
       collapsible: true,
       items: [{
-        text: 'Introduction',
-        link: '/introduction'
+        text: '初识vimiumc',
+        link: '/chrome/day1.md'
       },
       {
-        text: 'Getting Started',
-        link: '/getting-started'
+        text: '页面操作',
+        link: '/chrome/day2.md'
       },
+      {
+        text: '查找、搜索',
+        link: '/chrome/day3.md'
+      },
+      {
+        text: '标签',
+        link: '/chrome/day4.md'
+      },
+      {
+        text: '一些不常用的场景',
+        link: '/chrome/day5.md'
+      },
+      {
+        text: 'devTools常用快捷键',
+        link: '/chrome/day6.md'
+      },
+      {
+        text: '调试Debugger',
+        link: '/chrome/day7.md'
+      }
       ]
+    },
+    {
+      text: 'iterm',
+      collapsible: true,
+      items: [{
+        text: 'iterm 导航',
+        link: '/iterm/day01.md'
+      }, {
+        text: 'zellij使用',
+        link: '/iterm/day2.md'
+      }, {
+        text: "初识vi-zsh-mode",
+        link: '/iterm/day3.md'
+      }, {
+        text: 'vi-zsh-mode进阶',
+        link: '/iterm/day4.md'
+      }, {
+        text: 'iterm 常用插件',
+        link: '/iterm/day5.md'
+      }, {
+        text: 'iterm 修改快捷键',
+        link: '/iterm/day6.md'
+      }]
     },
     {
       text: 'Mac',
       collapsible: true,
       items: [{
-        text: 'Introduction',
-        link: '/introduction'
+        text: 'Mac 常用软件',
+        link: '/mac/day1.md'
       },
       {
         text: 'Getting Started',
